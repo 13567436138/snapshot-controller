@@ -1,1 +1,1 @@
-FROM openebs/snapshot-controller:2.12.2
+FROM registry.k8s.io/sig-storage/snapshot-controller:v6.2.2
